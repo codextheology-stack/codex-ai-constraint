@@ -22,3 +22,6 @@ streamlit run streamlit_demo.py     # interactive web demo
 ![Trajectories](trajectories.png)
 ![Means](group_means.png)
 added plot images
+## Download the Paper
+- **Full compiled PDF**: [codex_paper.pdf](codex_paper.pdf)  
+  (Click to view/download the complete academic paper with all sections, including the new predictions on polytheism and the metaphysical prediction engine.)
