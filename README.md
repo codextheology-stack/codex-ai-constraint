@@ -16,3 +16,9 @@ Built from Axiom Zero, the Ontological Trinity, and the Principle of Indiscernib
 pip install -r requirements.txt
 python codex_simulation.py          # runs sim + generates plots + meta-monologue
 streamlit run streamlit_demo.py     # interactive web demo
+## Visual Results
+![Initial](initial_histogram.png)
+![Final](final_histogram.png)
+![Trajectories](trajectories.png)
+![Means](group_means.png)
+added plot images
